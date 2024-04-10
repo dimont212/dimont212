@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @dimont212
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java
